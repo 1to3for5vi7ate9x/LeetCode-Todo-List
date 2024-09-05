@@ -102,5 +102,4 @@ For any questions or suggestions, please reach out to ankitc@krates.ai.
 ---
 
 Happy coding and stay on top of your LeetCode goals!
-```
 
